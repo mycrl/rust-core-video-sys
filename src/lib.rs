@@ -81,3 +81,5 @@ pub mod open_gl_es_texture_cache;
 
 pub use self::open_gl_es_texture::*;
 pub use self::open_gl_es_texture_cache::*;
+
+pub use core_foundation_sys as core_foundation;
